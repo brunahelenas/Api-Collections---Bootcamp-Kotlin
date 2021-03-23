@@ -2,7 +2,7 @@
 
 
 
-##### Sou estudante de Sistemas de Informação pela UFU - Universidade Federal de Uberlândia. Esse é um programa de lista de funcionários, onde eu uso GroupBy, ForEach, Sort, map, arrayOf, Union, subtract,intersect, pair, dentre outras funcionalidades. Este Bootcamp de Kotlin, foi proporcionado pela Digital Inovation One juntamente com a Everis Brasil.
+##### Sou estudante de Sistemas de Informação pela UFU - Universidade Federal de Uberlândia. Esse é um programa de lista de funcionários, onde uso GroupBy, ForEach, Sort, map, arrayOf, Union, subtract,intersect, pair, dentre outras funcionalidades. Este Bootcamp de Kotlin, foi proporcionado pela Digital Inovation One juntamente com a Everis Brasil.
 
 
 
